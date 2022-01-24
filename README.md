@@ -1,7 +1,5 @@
 # Young-Eun Lee
 
-This is readme file
-
 ## Introduction
 Young-Eun Lee
 * PhD candidate at Pattern Recognition & Machine Learning Lab in Korea University
