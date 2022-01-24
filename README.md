@@ -7,7 +7,7 @@ Young-Eun Lee
 
 ## Publication
 ### Journal
-* Y.-E. Lee, G.-H. Shin, M. Lee, and S.-W. Lee, "Mobile BCI dataset of scalp- and ear-EEGs with ERP and SSVEP paradigms while standing, walking, and running," Scientific Data, 2021 (Accepted).
+* <b>Y.-E. Lee</b>, G.-H. Shin, M. Lee, and S.-W. Lee, "Mobile BCI dataset of scalp- and ear-EEGs with ERP and SSVEP paradigms while standing, walking, and running," Scientific Data, 2021 (Accepted).
 * Y.-E. Lee, N.-S. Kwak, S.-W. Lee, "A Real-time movement artifact removal method for ambulatory brain-computer interfaces," IEEE Trans. on Neural Systems & Rehabilitation Engineering, Vol. 28, No.12, 2020, pp. 2660-2670. 
 * M.-H. Lee, O.-Y. Kwon, Y.-J. Kim, H.-K. Kim, Y.-E. Lee, J. Williamson, S. Fazli, and S.-W. Lee, "EEG Dataset and OpenBMI Toolbox for Three BCI Paradigms: An Investigation into BCI Illiteracy," GigaScience, Vol. 8, No. 5, 2019, pp. 1-16.
 * M.-H. Lee, J. Williamson, Y.-E. Lee, and S.-W. Lee, "Mental Fatigue in Central and Peripheral Field SSVEP and Its Effects on ERP Responses," NeuroReport, Vol. 29, 2018, pp. 1301-1308.
