@@ -13,11 +13,11 @@ Young-Eun Lee
 * M.-H. Lee, J. Williamson, Y.-E. Lee, and S.-W. Lee, "Mental Fatigue in Central and Peripheral Field SSVEP and Its Effects on ERP Responses," NeuroReport, Vol. 29, 2018, pp. 1301-1308.
 
 ### Conferences
-* Y.-E. Lee and S.-W. Lee, “Decoding event-related potential from ear-EEG signals based on ensemble convolutional neural networks in ambulatory environment,” Proc. 9th IEEE International Winter Conference on Brain-Computer Interface, Korea, Feb. 22-24, 2021.
+* Y.-E. Lee and S.-W. Lee, “Decoding event-related potential from ear-EEG signals based on ensemble convolutional neural networks in ambulatory environment,” Proc. 9th IEEE International Winter Conference on Brain-Computer Interface, Korea, Feb. 22-24, 2021.
 * S.-H. Lee*, Y.-E. Lee*, S.-W. Lee, “Voice of your brain: Cognitive representations of imagined speech, overt speech, and speech  perception based on EEG,” Arxiv preprint, 2021.
 * Y.-E. Lee and M. Lee, “Decoding visual responses based on deep neural networks with ear-EEG signals,” Proc. 8th IEEE International Winter Conference on Brain-Computer Interface, Korea, Feb. 26-28, 2020.
 * Y.-E. Lee, M. Lee, S.-W. Lee, “Reconstructing ERP signals using generative adversarial networks for mobile brain-machine interface,” Arxiv preprint, 2020.
-* Y.-E. Lee, H. M. Husin, M. P. Forte, S.-W. Lee, K. J. Kuchenbecker, “Vision-based Force Estimation for a da Vinci Instrument Using Deep Neural Networks,” SAGES, 2020.
+* Y.-E. Lee, H. M. Husin, M. P. Forte, S.-W. Lee, K. J. Kuchenbecker, “Vision-based Force Estimation for a da Vinci Instrument Using Deep Neural Networks,” SAGES, 2020.
 
 ### Patents
 * 이영은, 곽노상, 정지훈, 이성환, “뇌 기계 인터페이스 기반의 움직임 의도 검출에 따른 착용형 로봇 제어 장치 및 방법,” 등록번호: 10-2276991, 2021. 07. 07.
