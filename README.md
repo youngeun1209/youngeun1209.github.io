@@ -3,7 +3,7 @@
 ## Introduction
 Young-Eun Lee
 * PhD candidate at Pattern Recognition & Machine Learning Lab in Korea University
-
+Google Scholar: https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ
 
 ## Publication
 ### Journal
