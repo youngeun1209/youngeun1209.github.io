@@ -4,7 +4,7 @@
 Young-Eun Lee
 * PhD candidate at Pattern Recognition & Machine Learning Lab in Korea University
 
-<a href="https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ">Google Scholar Site</a>
+<a href="https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ">Google Scholar</a>
 
 ## Publication
 ### Journal
