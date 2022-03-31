@@ -16,6 +16,8 @@ Young-Eun Lee
 * J.-H. Jeong, J.-H. Cho, <b>Y.-E. Lee</b>, S.-H. Lee, G.-H. Shin, Y.-S. Kweon, J. R. Millán, K.-R. Müller and S.-W. Lee, “2020 International Brain–Computer Interface Competition: A Review,” Frontiers in Human Neuroscience. (Under review)
 
 ### Conferences
+* <b>Y.-E. Lee</b> and S.-H. Lee, "EEG-Transformer: Self-attention from Transformer Architecture for Decoding EEG of Imagined Speech," Proc. 10th IEEE International Winter Conference on Brain-Computer Interface, Korea, Feb. 21-23, 2022.
+* S.-H. Lee, <b>Y.-E. Lee</b> and S.-W. Lee, "Toward Imagined Speech based Smart Communication System: Potential Applications on Metaverse Conditions," Proc. 10th IEEE International Winter Conference on Brain-Computer Interface, Korea, Feb. 21-23, 2022.
 * <b>Y.-E. Lee</b> and S.-W. Lee, “Decoding event-related potential from ear-EEG signals based on ensemble convolutional neural networks in ambulatory environment,” Proc. 9th IEEE International Winter Conference on Brain-Computer Interface, Korea, Feb. 22-24, 2021.
 * S.-H. Lee&#42;, <b>Y.-E. Lee</b>&#42;, S.-W. Lee, “Voice of your brain: Cognitive representations of imagined speech, overt speech, and speech  perception based on EEG,” Arxiv preprint, 2021.
 * <b>Y.-E. Lee</b> and M. Lee, “Decoding visual responses based on deep neural networks with ear-EEG signals,” Proc. 8th IEEE International Winter Conference on Brain-Computer Interface, Korea, Feb. 26-28, 2020.
