@@ -6,6 +6,8 @@ Young-Eun Lee
 
 <a href="https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ">Google Scholar</a>
 
+my github: https://github.com/youngeun1209
+
 ## Publication
 ### Journal
 * <b>Y.-E. Lee</b>, G.-H. Shin, M. Lee, and S.-W. Lee, "Mobile BCI dataset of scalp- and ear-EEGs with ERP and SSVEP paradigms while standing, walking, and running," Scientific Data, Vol. 8, No. 315, 2021.
