@@ -6,7 +6,7 @@ Young-Eun Lee
 
 <a href="https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ">Google Scholar</a>
 
-my github: https://github.com/youngeun1209
+My github: https://github.com/youngeun1209
 
 ## Publication
 ### Journal
