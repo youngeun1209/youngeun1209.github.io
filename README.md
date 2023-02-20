@@ -10,6 +10,7 @@ Young-Eun Lee
 
 ## Publication
 ### Journal
+* J.-H. Jeong, J.-H. Cho, <b>Y.-E. Lee</b>, S.-H. Lee, G.-H. Shin, Y.-S. Kweon, J. R. Millán, K.-R. Müller, and S.-W. Lee, "2020 International Brain-Computer Interface Competition: A Review," Frontiers in Human Neuroscience, Vol. 16, 2022, pp. 898300. 
 * <b>Y.-E. Lee</b>, G.-H. Shin, M. Lee, and S.-W. Lee, "Mobile BCI dataset of scalp- and ear-EEGs with ERP and SSVEP paradigms while standing, walking, and running," Scientific Data, Vol. 8, No. 315, 2021.
 * <b>Y.-E. Lee</b>, N.-S. Kwak, S.-W. Lee, "A Real-time movement artifact removal method for ambulatory brain-computer interfaces," IEEE Trans. on Neural Systems & Rehabilitation Engineering, Vol. 28, No.12, 2020, pp. 2660-2670. 
 * M.-H. Lee, O.-Y. Kwon, Y.-J. Kim, H.-K. Kim, <b>Y.-E. Lee</b>, J. Williamson, S. Fazli, and S.-W. Lee, "EEG Dataset and OpenBMI Toolbox for Three BCI Paradigms: An Investigation into BCI Illiteracy," GigaScience, Vol. 8, No. 5, 2019, pp. 1-16.
@@ -18,6 +19,7 @@ Young-Eun Lee
 * J.-H. Jeong, J.-H. Cho, <b>Y.-E. Lee</b>, S.-H. Lee, G.-H. Shin, Y.-S. Kweon, J. R. Millán, K.-R. Müller and S.-W. Lee, “2020 International Brain–Computer Interface Competition: A Review,” Frontiers in Human Neuroscience. (Under review)
 
 ### Conferences
+* <b>Y.-E. Lee</b>, S.-H. Lee, S.-H Kim, and S.-W. Lee, "Towards Voice Reconstruction from EEG during Imagined Speech," AAAI Conference on Artificial Intelligence (AAAI), 2023.
 * <b>Y.-E. Lee</b> and S.-H. Lee, "EEG-Transformer: Self-attention from Transformer Architecture for Decoding EEG of Imagined Speech," Proc. 10th IEEE International Winter Conference on Brain-Computer Interface, Korea, Feb. 21-23, 2022.
 * S.-H. Lee, <b>Y.-E. Lee</b> and S.-W. Lee, "Toward Imagined Speech based Smart Communication System: Potential Applications on Metaverse Conditions," Proc. 10th IEEE International Winter Conference on Brain-Computer Interface, Korea, Feb. 21-23, 2022.
 * <b>Y.-E. Lee</b> and S.-W. Lee, “Decoding event-related potential from ear-EEG signals based on ensemble convolutional neural networks in ambulatory environment,” Proc. 9th IEEE International Winter Conference on Brain-Computer Interface, Korea, Feb. 22-24, 2021.
