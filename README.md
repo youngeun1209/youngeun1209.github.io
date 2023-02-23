@@ -7,7 +7,7 @@ Young-Eun Lee
 * PhD Candidate
 * Dept. Brain and Cognitive Engineering at Korea University
 * Lab: Pattern Recognition & Machine Learning Lab 
-<a href="https://pr.korea.ac.kr">Homepage</a>
+<a href="http://pr.korea.ac.kr/">Homepage</a>
 
 Email: ye_lee@korea.ac.kr
 
