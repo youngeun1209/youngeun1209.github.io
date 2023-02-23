@@ -2,6 +2,7 @@
 
 ## Introduction
 <img src="/images/Young.jpg" width="10%" height="10%">
+
 Young-Eun Lee
 * PhD candidate at Pattern Recognition & Machine Learning Lab in Korea University
 
