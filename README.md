@@ -4,7 +4,8 @@
 <img src="/images/Young.jpg" align="right" width="20%" height="20%">
 
 Young-Eun Lee
-* PhD candidate at Pattern Recognition & Machine Learning Lab in Korea University
+* PhD Candidate at Pattern Recognition & Machine Learning Lab 
+in Korea University
 
 
 <a href="https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ">Google Scholar</a>
