@@ -4,8 +4,9 @@
 <img src="/images/Young.jpg" align="right" width="20%" height="20%">
 
 Young-Eun Lee
-* PhD Candidate at Pattern Recognition & Machine Learning Lab
+* PhD Candidate
 * Dept. Brain and Cognitive Enginnering at Korea University
+* Lab: Pattern Recognition & Machine Learning Lab (pr.korea.ac.kr)
 
 Email: ye_lee@koea.ac.kr
 
