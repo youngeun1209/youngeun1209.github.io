@@ -1,4 +1,4 @@
-# Young-Eun Lee
+# <a href="https://youngeun1209.github.io">Young-Eun Lee</a>
 
 ## Introduction
 <img src="/images/Young.jpg" align="right" width="20%" height="20%">
@@ -12,8 +12,6 @@ Young-Eun Lee
 Email: ye_lee@korea.ac.kr
 
 <a href="https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ">Google Scholar</a>
-
-<a href="https://youngeun1209.github.io">Homepage</a>
 
 <a href="https://github.com/youngeun1209">GitHub</a>
 
