@@ -1,6 +1,7 @@
 # Young-Eun Lee
 
 ## Introduction
+<img src="/images/Young.jpg" width="50%" height="50%">
 Young-Eun Lee
 * PhD candidate at Pattern Recognition & Machine Learning Lab in Korea University
 
