@@ -9,7 +9,7 @@ Young-Eun Lee
 * Lab: Pattern Recognition & Machine Learning Lab 
 <a href="https://pr.korea.ac.kr">Homepage</a>
 
-Email: ye_lee@koea.ac.kr
+Email: ye_lee@korea.ac.kr
 
 <a href="https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ">Google Scholar</a>
 
