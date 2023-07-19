@@ -21,7 +21,7 @@ Email: ye_lee@korea.ac.kr
 * M.-H. Lee, O.-Y. Kwon, Y.-J. Kim, H.-K. Kim, <b>Y.-E. Lee</b>, J. Williamson, S. Fazli, and S.-W. Lee, "EEG Dataset and OpenBMI Toolbox for Three BCI Paradigms: An Investigation into BCI Illiteracy," GigaScience, Vol. 8, No. 5, 2019, pp. 1-16.
 
 ## Publication
-### Journals
+### International Journals
 * <b>Y.-E. Lee</b>, H. M. Husin, M.-P. Forte, S.-W. Lee, and K. J. Kuchenbecker, “Learning to Estimate Palpation Forces in Robotic Surgery from Visual-Inertial Data,” IEEE Transactions on Medical Robotics and Bionics, 2023. (Early Access)
 * J.-H. Jeong, J.-H. Cho, <b>Y.-E. Lee</b>, S.-H. Lee, G.-H. Shin, Y.-S. Kweon, J. R. Millán, K.-R. Müller, and S.-W. Lee, "2020 International Brain-Computer Interface Competition: A Review," Frontiers in Human Neuroscience, Vol. 16, 2022, pp. 898300. 
 * <b>Y.-E. Lee</b>, G.-H. Shin, M. Lee, and S.-W. Lee, "Mobile BCI dataset of scalp- and ear-EEGs with ERP and SSVEP paradigms while standing, walking, and running," Scientific Data, Vol. 8, No. 315, 2021.
@@ -30,7 +30,7 @@ Email: ye_lee@korea.ac.kr
 * M.-H. Lee, J. Williamson, <b>Y.-E. Lee</b>, and S.-W. Lee, "Mental Fatigue in Central and Peripheral Field SSVEP and Its Effects on ERP Responses," NeuroReport, Vol. 29, 2018, pp. 1301-1308.
 * J.-H. Jeong, J.-H. Cho, K.-H. Shim, <b>Y.-E. Lee</b>, and S.-W. Lee, “NeuroBoT: Short-Term Brain-Machine Learning of Real-Time EEG Decoding for BMI-of-Things,” IEEE Transactions on Systems Man and Cybernetics: Systems. (Under review)
 
-### Conferences
+### International Conferences
 * S. Kim, Y.-E. Lee, S.-H. Lee, and S.-W. Lee, "Diff-E: Diffusion-based Learning for Decoding Imagined Speech EEG," Proc. of Interspeech, 2023.
 * J. Lee, S.-H. Lee, Y.-E. Lee, S. Kim, S.-W. Lee, "Sentence Reconstruction Leveraging Contextual Meaning from Speech-Related Brain Signals," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023.
 * <b>Y.-E. Lee</b>, S.-H. Lee, S. Kim, S.-H. Kim, J.-S. Lee, and S.-W. Lee, “Speech Synthesis from Brain Signals Based on Generative Model,” Proc. 11th IEEE International Winter Conference on Brain-Computer Interface, Feb. 20-22, 2023.
@@ -45,6 +45,8 @@ Email: ye_lee@korea.ac.kr
 * <b>Y.-E. Lee</b>, M. Lee, S.-W. Lee, “Reconstructing ERP signals using generative adversarial networks for mobile brain-machine interface,” Arxiv preprint, 2020.
 * <b>Y.-E. Lee</b>, H. M. Husin, M. P. Forte, S.-W. Lee, K. J. Kuchenbecker, “Vision-based Force Estimation for a da Vinci Instrument Using Deep Neural Networks,” SAGES, 2020.
 
+### Domestic Conferences
+* 김수원, 이영은, 이서현, 이성환, “사용자 독립적 뇌-컴퓨터 인터페이스를 위한 잔차 학습 기반의 발화 EEG 분류,” 뇌와 인공지능 심포지엄, 2022년 2월.
 
 ## Patents
 * "Method and Apparatus for Speech Synthesis Based on Brain Signals During Imagined Speech," Application Number: US 18/199,670 (U.S.A).
