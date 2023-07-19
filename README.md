@@ -22,7 +22,7 @@ Email: ye_lee@korea.ac.kr
 
 ## Publication
 ### Journals
-* <b>Y.-E. Lee</b>, H. M. Husin, M.-P. Forte, S.-W. Lee, and K. J. Kuchenbecker, “Learning to Estimate Palpation Forces in Robotic Surgery from Visual-Inertial Data,” IEEE Transactions on Medical Robotics and Bionics. (Early Access)
+* <b>Y.-E. Lee</b>, H. M. Husin, M.-P. Forte, S.-W. Lee, and K. J. Kuchenbecker, “Learning to Estimate Palpation Forces in Robotic Surgery from Visual-Inertial Data,” IEEE Transactions on Medical Robotics and Bionics, 2023. (Early Access)
 * J.-H. Jeong, J.-H. Cho, <b>Y.-E. Lee</b>, S.-H. Lee, G.-H. Shin, Y.-S. Kweon, J. R. Millán, K.-R. Müller, and S.-W. Lee, "2020 International Brain-Computer Interface Competition: A Review," Frontiers in Human Neuroscience, Vol. 16, 2022, pp. 898300. 
 * <b>Y.-E. Lee</b>, G.-H. Shin, M. Lee, and S.-W. Lee, "Mobile BCI dataset of scalp- and ear-EEGs with ERP and SSVEP paradigms while standing, walking, and running," Scientific Data, Vol. 8, No. 315, 2021.
 * <b>Y.-E. Lee</b>, N.-S. Kwak, S.-W. Lee, "A Real-time movement artifact removal method for ambulatory brain-computer interfaces," IEEE Trans. on Neural Systems & Rehabilitation Engineering, Vol. 28, No.12, 2020, pp. 2660-2670. 
