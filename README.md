@@ -15,17 +15,24 @@ Email: ye_lee@korea.ac.kr
 
 <a href="https://github.com/youngeun1209">GitHub</a>
 
+## Selected Paper
+* <b>Y.-E. Lee</b>, S.-H. Lee, S.-H Kim, and S.-W. Lee, "Towards Voice Reconstruction from EEG during Imagined Speech," AAAI Conference on Artificial Intelligence (AAAI), 2023.
+* <b>Y.-E. Lee</b>, N.-S. Kwak, S.-W. Lee, "A Real-time movement artifact removal method for ambulatory brain-computer interfaces," IEEE Trans. on Neural Systems & Rehabilitation Engineering, Vol. 28, No.12, 2020, pp. 2660-2670. 
+* M.-H. Lee, O.-Y. Kwon, Y.-J. Kim, H.-K. Kim, <b>Y.-E. Lee</b>, J. Williamson, S. Fazli, and S.-W. Lee, "EEG Dataset and OpenBMI Toolbox for Three BCI Paradigms: An Investigation into BCI Illiteracy," GigaScience, Vol. 8, No. 5, 2019, pp. 1-16.
+
 ## Publication
 ### Journals
+* <b>Y.-E. Lee</b>, H. M. Husin, M.-P. Forte, S.-W. Lee, and K. J. Kuchenbecker, “Learning to Estimate Palpation Forces in Robotic Surgery from Visual-Inertial Data,” IEEE Transactions on Medical Robotics and Bionics. (Early Access)
 * J.-H. Jeong, J.-H. Cho, <b>Y.-E. Lee</b>, S.-H. Lee, G.-H. Shin, Y.-S. Kweon, J. R. Millán, K.-R. Müller, and S.-W. Lee, "2020 International Brain-Computer Interface Competition: A Review," Frontiers in Human Neuroscience, Vol. 16, 2022, pp. 898300. 
 * <b>Y.-E. Lee</b>, G.-H. Shin, M. Lee, and S.-W. Lee, "Mobile BCI dataset of scalp- and ear-EEGs with ERP and SSVEP paradigms while standing, walking, and running," Scientific Data, Vol. 8, No. 315, 2021.
 * <b>Y.-E. Lee</b>, N.-S. Kwak, S.-W. Lee, "A Real-time movement artifact removal method for ambulatory brain-computer interfaces," IEEE Trans. on Neural Systems & Rehabilitation Engineering, Vol. 28, No.12, 2020, pp. 2660-2670. 
 * M.-H. Lee, O.-Y. Kwon, Y.-J. Kim, H.-K. Kim, <b>Y.-E. Lee</b>, J. Williamson, S. Fazli, and S.-W. Lee, "EEG Dataset and OpenBMI Toolbox for Three BCI Paradigms: An Investigation into BCI Illiteracy," GigaScience, Vol. 8, No. 5, 2019, pp. 1-16.
 * M.-H. Lee, J. Williamson, <b>Y.-E. Lee</b>, and S.-W. Lee, "Mental Fatigue in Central and Peripheral Field SSVEP and Its Effects on ERP Responses," NeuroReport, Vol. 29, 2018, pp. 1301-1308.
-* Y.-E. Lee, H. M. Husin, M.-P. Forte, S.-W. Lee, and K. J. Kuchenbecker, “Learning to Estimate Palpation Forces in Robotic Surgery from Visual-Inertial Data,” IEEE Transactions on Medical Robotics and Bionics. (Early Access)
 * J.-H. Jeong, J.-H. Cho, K.-H. Shim, <b>Y.-E. Lee</b>, and S.-W. Lee, “NeuroBoT: Short-Term Brain-Machine Learning of Real-Time EEG Decoding for BMI-of-Things,” IEEE Transactions on Systems Man and Cybernetics: Systems. (Under review)
 
 ### Conferences
+* S. Kim, Y.-E. Lee, S.-H. Lee, and S.-W. Lee, "Diff-E: Diffusion-based Learning for Decoding Imagined Speech EEG," Proc. of Interspeech, 2023.
+* J. Lee, S.-H. Lee, Y.-E. Lee, S. Kim, S.-W. Lee, "Sentence Reconstruction Leveraging Contextual Meaning from Speech-Related Brain Signals," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023.
 * <b>Y.-E. Lee</b>, S.-H. Lee, S. Kim, S.-H. Kim, J.-S. Lee, and S.-W. Lee, “Speech Synthesis from Brain Signals Based on Generative Model,” Proc. 11th IEEE International Winter Conference on Brain-Computer Interface, Feb. 20-22, 2023.
 * S. Kim, J.-W. Lee, <b>Y.-E. Lee</b>, S.-H. Lee, “Subject-Independent Classification of Brain Signals using Skip Connections,” Proc. 11th IEEE International Winter Conference on Brain-Computer Interface, Feb. 20-22, 2023.
 * S.-H. Lee, <b>Y.-E. Lee</b>, S. Kim, S.-W. Lee, “Towards Neural Decoding of Imagined Speech based on Spoken Speech,” Proc. 11th IEEE International Winter Conference on Brain-Computer Interface, Feb. 20-22, 2023.
