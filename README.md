@@ -47,6 +47,7 @@ Email: ye_lee@korea.ac.kr
 
 
 ## Patents
+* "Method and Apparatus for Speech Synthesis Based on Brain Signals During Imagined Speech," Application Number: US 18/199,670 (U.S.A).
 * “User Authentication Apparatus and Method Using Brainwave Signal According to Imagined Speech,” Application Number: US 17/884,870 (U.S.A).
 * “Apparatus and Method for Left- and Right-Foot Classification Based on Brain Signals,” Registration Number: 10-2276991 (Korea).
 * “Method and apparatus for speech synthesis based on brain signals during imagined speech,” Application Number: 10-2022-0173551 (Korea).
