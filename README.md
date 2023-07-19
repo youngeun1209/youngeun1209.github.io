@@ -22,7 +22,7 @@ Email: ye_lee@korea.ac.kr
 * <b>Y.-E. Lee</b>, N.-S. Kwak, S.-W. Lee, "A Real-time movement artifact removal method for ambulatory brain-computer interfaces," IEEE Trans. on Neural Systems & Rehabilitation Engineering, Vol. 28, No.12, 2020, pp. 2660-2670. 
 * M.-H. Lee, O.-Y. Kwon, Y.-J. Kim, H.-K. Kim, <b>Y.-E. Lee</b>, J. Williamson, S. Fazli, and S.-W. Lee, "EEG Dataset and OpenBMI Toolbox for Three BCI Paradigms: An Investigation into BCI Illiteracy," GigaScience, Vol. 8, No. 5, 2019, pp. 1-16.
 * M.-H. Lee, J. Williamson, <b>Y.-E. Lee</b>, and S.-W. Lee, "Mental Fatigue in Central and Peripheral Field SSVEP and Its Effects on ERP Responses," NeuroReport, Vol. 29, 2018, pp. 1301-1308.
-* Y.-E. Lee, H. M. Husin, M.-P. Forte, S.-W. Lee, and K. J. Kuchenbecker, “Learning to Estimate Palpation Forces in Robotic Surgery from Visual-Inertial Data,” IEEE Transactions on Medical Robotics and Bionics. (Under review)
+* Y.-E. Lee, H. M. Husin, M.-P. Forte, S.-W. Lee, and K. J. Kuchenbecker, “Learning to Estimate Palpation Forces in Robotic Surgery from Visual-Inertial Data,” IEEE Transactions on Medical Robotics and Bionics. (Early Access)
 * J.-H. Jeong, J.-H. Cho, K.-H. Shim, <b>Y.-E. Lee</b>, and S.-W. Lee, “NeuroBoT: Short-Term Brain-Machine Learning of Real-Time EEG Decoding for BMI-of-Things,” IEEE Transactions on Systems Man and Cybernetics: Systems. (Under review)
 
 ### Conferences
