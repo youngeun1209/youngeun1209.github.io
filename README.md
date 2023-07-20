@@ -46,7 +46,7 @@ Email: ye_lee@korea.ac.kr
 * <b>Y.-E. Lee</b>, H. M. Husin, M. P. Forte, S.-W. Lee, K. J. Kuchenbecker, “Vision-based Force Estimation for a da Vinci Instrument Using Deep Neural Networks,” SAGES, 2020.
 
 ### Domestic Conferences
-* 김수원, 이영은, 이서현, 이성환, “사용자 독립적 뇌-컴퓨터 인터페이스를 위한 잔차 학습 기반의 발화 EEG 분류,” 뇌와 인공지능 심포지엄, 2022년 2월.
+* 김수원, 이영은, 이서현, 이성환, “사용자 독립적 뇌-컴퓨터 인터페이스를 위한 잔차 학습 기반의 발화 EEG 분류,” 한국뇌공학회 동계심포지엄, 2023년 2월.
 
 ## Patents
 * "Method and Apparatus for Speech Synthesis Based on Brain Signals During Imagined Speech," Application Number: US 18/199,670 (U.S.A).
