@@ -31,8 +31,8 @@ Email: ye_lee@korea.ac.kr
 * J.-H. Jeong, J.-H. Cho, K.-H. Shim, <b>Y.-E. Lee</b>, and S.-W. Lee, “NeuroBoT: Short-Term Brain-Machine Learning of Real-Time EEG Decoding for BMI-of-Things,” IEEE Transactions on Systems Man and Cybernetics: Systems. (Under review)
 
 ### International Conferences
-* S. Kim, Y.-E. Lee, S.-H. Lee, and S.-W. Lee, "Diff-E: Diffusion-based Learning for Decoding Imagined Speech EEG," Proc. of Interspeech, 2023.
-* J. Lee, S.-H. Lee, Y.-E. Lee, S. Kim, S.-W. Lee, "Sentence Reconstruction Leveraging Contextual Meaning from Speech-Related Brain Signals," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023.
+* S. Kim, <b>Y.-E. Lee</b>, S.-H. Lee, and S.-W. Lee, "Diff-E: Diffusion-based Learning for Decoding Imagined Speech EEG," Proc. of Interspeech, 2023.
+* J. Lee, S.-H. Lee, <b>Y.-E. Lee</b>, S. Kim, S.-W. Lee, "Sentence Reconstruction Leveraging Contextual Meaning from Speech-Related Brain Signals," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023.
 * <b>Y.-E. Lee</b>, S.-H. Lee, S. Kim, S.-H. Kim, J.-S. Lee, and S.-W. Lee, “Speech Synthesis from Brain Signals Based on Generative Model,” Proc. 11th IEEE International Winter Conference on Brain-Computer Interface, Feb. 20-22, 2023.
 * S. Kim, J.-W. Lee, <b>Y.-E. Lee</b>, S.-H. Lee, “Subject-Independent Classification of Brain Signals using Skip Connections,” Proc. 11th IEEE International Winter Conference on Brain-Computer Interface, Feb. 20-22, 2023.
 * S.-H. Lee, <b>Y.-E. Lee</b>, S. Kim, S.-W. Lee, “Towards Neural Decoding of Imagined Speech based on Spoken Speech,” Proc. 11th IEEE International Winter Conference on Brain-Computer Interface, Feb. 20-22, 2023.
