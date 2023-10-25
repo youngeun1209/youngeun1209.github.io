@@ -18,7 +18,7 @@ Email: ye_lee@korea.ac.kr
 ## Selected Paper
 * <b>Y.-E. Lee</b>, S.-H. Lee, S.-H Kim, and S.-W. Lee, "Towards Voice Reconstruction from EEG during Imagined Speech," AAAI Conference on Artificial Intelligence (AAAI), 2023.
 * <b>Y.-E. Lee</b>, N.-S. Kwak, S.-W. Lee, "A Real-time movement artifact removal method for ambulatory brain-computer interfaces," IEEE Trans. on Neural Systems & Rehabilitation Engineering, Vol. 28, No.12, 2020, pp. 2660-2670.
-* <b>Y.-E. Lee</b>, H. M. Husin, M.-P. Forte, S.-W. Lee, and K. J. Kuchenbecker, “Learning to Estimate Palpation Forces in Robotic Surgery from Visual-Inertial Data,” IEEE Transactions on Medical Robotics and Bionics, 2023. (Early Access)
+* <b>Y.-E. Lee</b>, H. M. Husin, M.-P. Forte, S.-W. Lee, and K. J. Kuchenbecker, “Learning to Estimate Palpation Forces in Robotic Surgery from Visual-Inertial Data,” IEEE Transactions on Medical Robotics and Bionics, Vol. 5, No. 3, 2023, pp. 496-506.
 * M.-H. Lee, O.-Y. Kwon, Y.-J. Kim, H.-K. Kim, <b>Y.-E. Lee</b>, J. Williamson, S. Fazli, and S.-W. Lee, "EEG Dataset and OpenBMI Toolbox for Three BCI Paradigms: An Investigation into BCI Illiteracy," GigaScience, Vol. 8, No. 5, 2019, pp. 1-16.
 
 ## Publication
