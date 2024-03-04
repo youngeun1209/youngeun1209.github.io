@@ -4,7 +4,7 @@
 <img src="/images/Young.jpg" align="right" width="20%" height="20%">
 
 Young-Eun Lee
-* PhD Candidate
+* PhD (Feb. 2024, integrated MS and PhD Program)
 * Dept. Brain and Cognitive Engineering at Korea University
 * Lab: Pattern Recognition & Machine Learning Lab 
 <a href="http://pr.korea.ac.kr/">Homepage</a>
