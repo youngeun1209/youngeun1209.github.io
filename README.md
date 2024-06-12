@@ -32,6 +32,10 @@ Email: ye_lee@korea.ac.kr
 * J.-H. Jeong, J.-H. Cho, K.-H. Shim, <b>Y.-E. Lee</b>, and S.-W. Lee, “NeuroBoT: Short-Term Brain-Machine Learning of Real-Time EEG Decoding for BMI-of-Things,” IEEE Transactions on Systems Man and Cybernetics: Systems. (Under review)
 
 ### International Conferences
+* D.-S. Kim, S.-H. Lee, <b>Y.-E. Lee</b>, S.-W. Lee, "Towards Speech Synthesis of Unconstrained Sentences from Speech-Related Biosignals," Proc. of EMBC, 2024.
+* <b>Y.-E. Lee</b>, S.-H. Lee, S. Kim, J.-S. Lee, D.-S. Kim, S.-W. Lee, "Enhanced Generative Adversarial Networks for Unseen Word Generation from EEG Signals," Proc. of 12th IEEE International Winter Conference on Brain-Computer Interface, Feb. 26-28, 2024.
+* S. Kim, S.-H. Lee, <b>Y.-E. Lee</b>, J.-W. Lee, J.-H. Park, P. Kazanzides, S.-W. Lee, "Brain-Driven Representation Learning Based on Diffusion Model," Proc. of 12th IEEE International Winter Conference on Brain-Computer Interface, Feb. 26-28, 2024.
+* S.-H. Lee, <b>Y.-E. Lee</b>, S. Kim, B.-K. Ko, J.-Y. Kim, S.-W. Lee, "Neural Speech Embeddings for Speech Synthesis Based on Deep Generative Networks," Proc. of 12th IEEE International Winter Conference on Brain-Computer Interface, Feb. 26-28, 2024.
 * S. Kim, <b>Y.-E. Lee</b>, S.-H. Lee, and S.-W. Lee, "Diff-E: Diffusion-based Learning for Decoding Imagined Speech EEG," Proc. of Interspeech, 2023.
 * J. Lee, S.-H. Lee, <b>Y.-E. Lee</b>, S. Kim, S.-W. Lee, "Sentence Reconstruction Leveraging Contextual Meaning from Speech-Related Brain Signals," 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2023.
 * <b>Y.-E. Lee</b>, S.-H. Lee, S. Kim, S.-H. Kim, J.-S. Lee, and S.-W. Lee, “Speech Synthesis from Brain Signals Based on Generative Model,” Proc. 11th IEEE International Winter Conference on Brain-Computer Interface, Feb. 20-22, 2023.
