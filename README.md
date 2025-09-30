@@ -14,7 +14,7 @@ Young-Eun Lee
 
 ## Education
 * Ph.D. at Dept. Brain and Cognitive Engineering, Korea University, Korea, Sep.2017 - Feb.2024
--	Supervisor: Seong-Whan Lee (Distinguished Professor at Korea University)
+  -	Supervisor: Seong-Whan Lee (Distinguished Professor at Korea University)
 * B.S. at Electronic & Mechanical Engineering, Handong Global University, Korea, Mar.2012 - Aug.2016
 
 Email: youngeun at stanford dot edu
