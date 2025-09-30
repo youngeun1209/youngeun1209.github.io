@@ -20,7 +20,10 @@ Young-Eun Lee
 Email: youngeun@stanford.edu
 
 <a href="https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ">Google Scholar</a>
+
 <a href="https://github.com/youngeun1209">GitHub</a>
+
+<a href="https://www.linkedin.com/in/young-eun-lee-bci">Linked In</a>
 
 ## Selected Paper
 * <b>Y.-E. Lee</b>, S.-H. Lee, S.-H Kim, and S.-W. Lee, "Towards Voice Reconstruction from EEG during Imagined Speech," AAAI Conference on Artificial Intelligence (AAAI), 2023.
