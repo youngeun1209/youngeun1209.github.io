@@ -7,20 +7,19 @@ Young-Eun Lee
 * Post Doctoral Researcher at Stanford University
 
 ## Career
-* Post-Doc | Dept. Psychiatry and Behavioral Sciences, Stanford University, USA, Nov. 2024 - Present
-* Post-Doc | Dept. Artificial Intelligence, Korea University, Korea, Mar.2024 - Oct.2024
-* Visiting Researcher | Max-Planck Institute for Intelligent Systems, Germany, Aug.2019 - Jan.2020
-* Intern | Watson team at IBM Korea, Korea, Jul.2016 - Sep.2016
+* Post-Doc at Dept. Psychiatry and Behavioral Sciences, Stanford University, USA, Nov. 2024 - Present
+* Post-Doc at Dept. Artificial Intelligence, Korea University, Korea, Mar.2024 - Oct.2024
+* Visiting Researcher at Max-Planck Institute for Intelligent Systems, Germany, Aug.2019 - Jan.2020
+* Intern at Watson team at IBM Korea, Korea, Jul.2016 - Sep.2016
 
 ## Education
-* Ph.D. | Dept. Brain and Cognitive Engineering, Korea University, Korea, Sep.2017 - Feb.2024
+* Ph.D. at Dept. Brain and Cognitive Engineering, Korea University, Korea, Sep.2017 - Feb.2024
 -	Supervisor: Seong-Whan Lee (Distinguished Professor at Korea University)
-* B.S. | Electronic & Mechanical Engineering, Handong Global University, Korea, Mar.2012 - Aug.2016
+* B.S. at Electronic & Mechanical Engineering, Handong Global University, Korea, Mar.2012 - Aug.2016
 
 Email: youngeun@stanford.edu
 
 <a href="https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ">Google Scholar</a>
-
 <a href="https://github.com/youngeun1209">GitHub</a>
 
 ## Selected Paper
