@@ -94,6 +94,13 @@ Email: youngeun at stanford dot edu
 * IEEE International Winter Conference on Brain-Computer
 * International Conference on Multimodal Interaction
 
+## Skills
+*	Programming: Python, PyTorch, TensorFlow, C/C++, MATLAB
+*	ML Models: CNNs, RNNs (LSTM, GRU), Transformers, GANs, Diffusion Models, AutoEncoders
+*	Techniques: Real-time decoding, Generative modeling, Few-shot Learning, Signal processing
+
+
+
 
 
 
