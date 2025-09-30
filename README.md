@@ -4,12 +4,20 @@
 <img src="/images/Young.jpg" align="right" width="20%" height="20%">
 
 Young-Eun Lee
-* PhD (Feb. 2024, integrated MS and PhD Program)
-* Dept. Brain and Cognitive Engineering at Korea University
-* Lab: Pattern Recognition & Machine Learning Lab 
-<a href="http://pr.korea.ac.kr/">Homepage</a>
+* Post Doctoral Researcher at Stanford University
 
-Email: ye_lee@korea.ac.kr
+## Career
+* Post-Doc | Dept. Psychiatry and Behavioral Sciences, Stanford University, USA, Nov. 2024 - Present
+* Post-Doc | Dept. Artificial Intelligence, Korea University, Korea, Mar.2024 - Oct.2024
+* Visiting Researcher | Max-Planck Institute for Intelligent Systems, Germany, Aug.2019 - Jan.2020
+* Intern | Watson team at IBM Korea, Korea, Jul.2016 - Sep.2016
+
+## Education
+* Ph.D. | Dept. Brain and Cognitive Engineering, Korea University, Korea, Sep.2017 - Feb.2024
+-	Supervisor: Seong-Whan Lee (Distinguished Professor at Korea University)
+* B.S. | Electronic & Mechanical Engineering, Handong Global University, Korea, Mar.2012 - Aug.2016
+
+Email: youngeun@stanford.edu
 
 <a href="https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ">Google Scholar</a>
 
@@ -29,7 +37,8 @@ Email: ye_lee@korea.ac.kr
 * <b>Y.-E. Lee</b>, N.-S. Kwak, S.-W. Lee, "A Real-time movement artifact removal method for ambulatory brain-computer interfaces," IEEE Trans. on Neural Systems & Rehabilitation Engineering, Vol. 28, No.12, 2020, pp. 2660-2670. 
 * M.-H. Lee, O.-Y. Kwon, Y.-J. Kim, H.-K. Kim, <b>Y.-E. Lee</b>, J. Williamson, S. Fazli, and S.-W. Lee, "EEG Dataset and OpenBMI Toolbox for Three BCI Paradigms: An Investigation into BCI Illiteracy," GigaScience, Vol. 8, No. 5, 2019, pp. 1-16.
 * M.-H. Lee, J. Williamson, <b>Y.-E. Lee</b>, and S.-W. Lee, "Mental Fatigue in Central and Peripheral Field SSVEP and Its Effects on ERP Responses," NeuroReport, Vol. 29, 2018, pp. 1301-1308.
-* J.-H. Jeong, J.-H. Cho, K.-H. Shim, <b>Y.-E. Lee</b>, and S.-W. Lee, “NeuroBoT: Short-Term Brain-Machine Learning of Real-Time EEG Decoding for BMI-of-Things,” IEEE Transactions on Systems Man and Cybernetics: Systems. (Under review)
+* J.-H. Jeong, J.-H. Cho, K.-H. Shim, <b>Y.-E. Lee</b>, and S.-W. Lee, “NeuroBoT: Short-Term Brain-Machine Learning of Real-Time EEG Decoding for BMI-of-Things,” Arxiv, 2025.
+* S. J. Madsen*, <b>Y.-E. Lee*</b>, L. Q. Uddin, J. A. Mumford, D. M. Barch, D. A. Fair, I. H. Gotlib, R. A. Poldrack, A. Kuceyeski, M. Saggar, "Predicting Task Activation Maps from Resting-State Functional Connectivity using Deep Learning," bioRxiv, 2025.
 
 ### International Conferences
 * D.-S. Kim, S.-H. Lee, <b>Y.-E. Lee</b>, S.-W. Lee, "Towards Speech Synthesis of Unconstrained Sentences from Speech-Related Biosignals," Proc. of EMBC, 2024.
@@ -54,10 +63,13 @@ Email: ye_lee@korea.ac.kr
 * S. Kim, Y.-E. Lee, S.-H. Lee, S.-W. Lee, “Speech EEG classification based on residual learning for user-independent brain-computer interfaces,” Winter Symposium of the Korean Society of Brain Engineering, 2023.
 
 ## Patents
+* “User Authentication Apparatus and Method Using Brainwave Signal According to Imagined Speech,” Register Number: 12,204,624, (U.S.A).
+* “Method, Device and Program for Learning Artificial Neural Networks Based on Speech Imagination Biosignals and Phoneme Information,” Application Number: US 18/981,333 (U.S.A).
 * "Method and Apparatus for Speech Synthesis Based on Brain Signals During Imagined Speech," Application Number: US 18/199,670 (U.S.A).
-* “User Authentication Apparatus and Method Using Brainwave Signal According to Imagined Speech,” Application Number: US 17/884,870 (U.S.A).
+* “Brain-Computer Interface System for Supporting New Language Acquisition Using Brain Signals,” Register Number: 10-2766793 (Korea).
+* “Method and apparatus for speech synthesis based on brain signals during imagined speech,” Register Number: 10-2709425 (Korea).
+* “Personal authentication apparatus and system based on brain signals of imagined speech,” Register Number: 10-2522391 (Korea).
 * “Apparatus and Method for Left- and Right-Foot Classification Based on Brain Signals,” Registration Number: 10-2276991 (Korea).
-* “Method and apparatus for speech synthesis based on brain signals during imagined speech,” Application Number: 10-2022-0173551 (Korea).
 * “Smart Home Control System and Apparatus based on Brain-Computer Interface Using Minimum Stimulus,” Application Number: 10-2022-0163784 (Korea).
 * “A method for user intent recognition through similarity comparison by extracting features from imagined speech and overt speech in brain-computer interface,” Application Number: 10-2022-0163782 (Korea).
 * “Brain-Computer Interface System for Supporting New Language Acquisition Using Brain Signals,” Application Number: 10-2022-0173553 (Korea).
@@ -65,8 +77,22 @@ Email: ye_lee@korea.ac.kr
 * “Personal authentication apparatus and system based on brain signals of imagined speech,” Application Number: 10-2021-0079992 (Korea).
 * “Apparatus and method for left- and right-foot classification based on brain signals,” Application Number: 10-2018-0135194 (Korea).
 
-## Career
-* Visiting Researcher at <b>Max-Planck Institute (MPI)</b> for Intelligent Systems, 2019.08.01 - 2020.01.31.
-* Intern at <b>IBM</b> Korea Watson, 2016.07.01 - 2016.09.30.
+## Peer Review
+* AAAI
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Industrial Informatics
+* IEEE Transactions on Instrumentation & Measurement
+* Journal of Engineering in Medicine
+* Computer Methods and Programs in Biomedicine
+* Scientific Data
+* Journal of Integrative Neuroscience
+* Brain Connectivity
+* Measurement Science Review
+* IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+* IEEE International Winter Conference on Brain-Computer
+* International Conference on Multimodal Interaction
+
+
+
 
 고려대학교 뇌공학과 이영은
