@@ -17,7 +17,7 @@ Young-Eun Lee
 -	Supervisor: Seong-Whan Lee (Distinguished Professor at Korea University)
 * B.S. at Electronic & Mechanical Engineering, Handong Global University, Korea, Mar.2012 - Aug.2016
 
-Email: youngeun@stanford.edu
+Email: youngeun at stanford dot edu
 
 <a href="https://scholar.google.co.kr/citations?user=fCkoUvEAAAAJ">Google Scholar</a>
 
