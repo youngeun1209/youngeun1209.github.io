@@ -1,0 +1,47 @@
+# Patents data. Edit this file to update the /patents/ page; it renders automatically.
+# status: granted | pending
+# Source of truth: CV (long), 2025-2026.
+
+united_states:
+  - title: "Method and Apparatus for Speech Synthesis Based on Brain Signals During Imagined Speech"
+    number: "Reg. No. 12,488,779"
+    status: granted
+    date: "Dec 2025"
+  - title: "User Authentication Apparatus and Method Using Brainwave Signal According to Imagined Speech"
+    number: "Reg. No. 12,204,624"
+    status: granted
+    date: "Jan 2025"
+  - title: "Method, Device and Program for Learning Artificial Neural Networks Based on Speech Imagination Biosignals and Phoneme Information"
+    number: "Application No. US 18/981,333"
+    status: pending
+    date: "Dec 2024"
+
+korea:
+  - title: "Method and System for Recognizing User's Facial Emotions and Mouth Shape When Speaking"
+    number: "Reg. No. 10-2959680"
+    status: granted
+    date: "Apr 2026"
+  - title: "Method and Apparatus for Supporting Language Acquisition Using Brain Signals"
+    number: "Reg. No. 10-2766793"
+    status: granted
+    date: "Feb 2025"
+  - title: "Method and Apparatus for Speech Synthesis Based on Brain Signals During Imagined Speech"
+    number: "Reg. No. 10-2709425"
+    status: granted
+    date: "Sep 2024"
+  - title: "User Authentication Apparatus and Method Using Brainwave According to Imagined Speech"
+    number: "Reg. No. 10-2522391"
+    status: granted
+    date: "Apr 2023"
+  - title: "Apparatus and Method for Left- and Right-Foot Classification Based on Brain Signals"
+    number: "Reg. No. 10-2276991"
+    status: granted
+    date: "Jul 2021"
+  - title: "Method and System for Detecting Similarity Between Actual Utterance and Imaginary Utterance and Recognizing Intent Through the Same"
+    number: "Application No. 10-2023-0171139"
+    status: pending
+    date: "Nov 2023"
+  - title: "Smart Home Control System and Method Based on Brain-Computer Interface Technology Using Minimal Stimulation"
+    number: "Application No. 10-2023-0122837"
+    status: pending
+    date: "Sep 2023"

@@ -1,0 +1,52 @@
+# Projects data for the /open-source/ (Software & Datasets) page.
+# (Research projects now live as individual files in _projects/ and render on /projects/.)
+# Groups: software + datasets.
+
+software:
+  - name: OpenBMI
+    highlight: "221★ / 113 forks"
+    description: "Open-source toolbox and benchmarking platform for brain-computer interface development, with standardized, reproducible pipelines for MI, ERP, and SSVEP paradigms. Lead developer and technical architect."
+    url: https://github.com/PatternRecognition/OpenBMI
+
+  - name: NeuroTalk
+    highlight: "AAAI 2023"
+    description: "Generative framework for synthesizing speech from brain signals, implementing the methods from our AAAI 2023 paper on voice reconstruction during imagined speech. Includes reproducible demos."
+    url: https://github.com/youngeun1209/NeuroTalk
+
+  - name: cIOL
+    highlight: "IEEE TNSRE"
+    description: "Noise- and movement-artifact reduction method for ambulatory EEG, implementing the techniques reported in our IEEE Transactions on Neural Systems and Rehabilitation Engineering paper."
+    url: https://github.com/youngeun1209/cIOL
+
+  - name: OMCR
+    highlight: "Multi-agent research"
+    description: "Open-source Claude Code plugin providing agentic workflows for scientific research: literature synthesis, manuscript revision, citation checking, and reviewer response."
+    url: https://github.com/youngeun1209/oh-my-claudecode-research
+
+  - name: OMCX
+    highlight: "Multi-agent research"
+    description: "Open-source multi-agent research workflow for OpenAI's Codex CLI, with specialized agents for hypothesis development, analysis, manuscript writing, figures, citation management, and peer review."
+    url: https://github.com/youngeun1209/oh-my-codex-research
+
+  - name: Deep-BCI
+    highlight: "Contributor"
+    description: "Collaborative open-source framework that uses deep learning to recognize user intentions from brain signals, spanning intelligent, ambulatory, cognitive-state, and zero-training BCIs."
+    url: https://github.com/DeepBCI/Deep-BCI
+
+  - name: AIHub-Brain
+    highlight: "Contributor"
+    description: "AI Innovation Hub repository for brain-computer interface and EEG research, including voice reconstruction from imagined speech (NeuroTalk) and diffusion-based EEG decoding (Diff-E)."
+    url: https://github.com/AIHub-1/AIHub-Brain
+
+datasets:
+  - name: OpenBMI EEG Dataset
+    highlight: "GigaScience · ~700 citations"
+    description: "Standardized EEG dataset for three BCI paradigms (MI, ERP, SSVEP), released with the OpenBMI toolbox and published as a peer-reviewed data descriptor in GigaScience."
+    url: http://gigadb.org/dataset/100542
+    paper: https://academic.oup.com/gigascience/article/8/5/giz002/5304369
+
+  - name: MobileBCI Dataset
+    highlight: "Scientific Data"
+    description: "Scalp- and around-ear EEG recorded in real-world settings (standing, walking, running) with ERP and SSVEP paradigms, released with end-to-end preprocessing and analysis code (Scientific Data)."
+    url: https://osf.io/r7s9b/
+    paper: https://www.nature.com/articles/s41597-021-01094-4

@@ -1,0 +1,72 @@
+---
+# Local override of the al-folio theme stylesheet.
+# Only change here is the accent color ($purple-color), set to a burgundy
+# that matches Korea University crimson and Stanford cardinal.
+---
+@charset "utf-8";
+
+/* Built-in Sass modules */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure design tokens BEFORE loading any partials.
+   Override the theme accent color here. */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default: "930px" }},
+  $purple-color: #8a1a2f
+);
+
+/* Theme partials (resolved from the al_folio_core gem's _sass) */
+@use "themes";
+@use "layout";
+
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* ---- Site-specific tweaks ---- */
+/* Title-case the hard-coded "selected publications" heading on the home page */
+h2 a[href$="/publications/"] {
+  text-transform: capitalize;
+}
+
+/* CV: remove the stray default list bullets on entry rows (Experience/Education),
+   while keeping the indented highlight sub-bullets. */
+ul.timeline li {
+  list-style-type: none !important;
+}
+ul.timeline li::before {
+  display: none !important;
+}
+.cv ul.list-group {
+  list-style: none !important;
+  padding-left: 0 !important;
+}
+.cv ul.list-group > li.list-group-item {
+  list-style: none !important;
+}
+.cv ul.items,
+.cv ul.items li {
+  list-style: circle !important;
+}
+/* CV: keep date badges left-aligned so a long location doesn't shift one row right */
+.cv .date-column {
+  text-align: left !important;
+}
+
+/* About: smaller, line-by-line profile info under the photo (avoids awkward wraps) */
+.profile .more-info {
+  font-size: 0.72rem;
+  line-height: 1.5;
+}
+.profile .more-info p {
+  display: block !important;
+}

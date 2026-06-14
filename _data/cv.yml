@@ -1,0 +1,94 @@
+cv:
+  name: Young-Eun Lee
+  label: Postdoctoral Researcher
+  email: youngeun [at] stanford [dot] edu
+  location: Stanford, CA
+  image: ""
+  summary: Postdoctoral researcher at Stanford University specializing in brain-computer interfaces, neural decoding, and imagined speech reconstruction from EEG and related biosignals.
+
+  social_networks:
+    - network: GitHub
+      username: youngeun1209
+    - network: LinkedIn
+      username: young-eun-lee-bci
+
+  sections:
+    Education:
+      - institution: Korea University
+        location: Seoul, Korea
+        area: Brain and Cognitive Engineering
+        studyType: PhD
+        start_date: 2017
+        end_date: 2024
+        highlights:
+          - "Supervisor: Seong-Whan Lee (Distinguished Professor at Korea University)"
+
+      - institution: Handong Global University
+        location: Pohang, Korea
+        area: Electronic and Mechanical Engineering
+        studyType: B.S.
+        start_date: 2012
+        end_date: 2016
+
+    Experience:
+      - company: Stanford University
+        position: Postdoctoral Researcher
+        location: Stanford, CA, USA
+        start_date: 2024-11
+        end_date: Present
+        highlights:
+          - "Department of Psychiatry and Behavioral Sciences"
+
+      - company: Korea University
+        position: Postdoctoral Researcher
+        location: Seoul, Korea
+        start_date: 2024-03
+        end_date: 2024-10
+        highlights:
+          - "Department of Artificial Intelligence"
+
+      - company: Max-Planck Institute for Intelligent Systems
+        position: Visiting Researcher
+        location: Stuttgart, Germany
+        start_date: 2019-08
+        end_date: 2020-01
+
+      - company: IBM Korea
+        position: Intern
+        location: Seoul, Korea
+        start_date: 2016-07
+        end_date: 2016-09
+        highlights:
+          - Watson team
+
+    Awards:
+      - title: "1st Prize, IEEE International BCI Competition (Track 5)"
+        awarder: "IEEE"
+        date: "2021-02"
+      - title: "Best Paper Award"
+        awarder: "Korea University Graduate School"
+        date: "2021-02"
+      - title: "AI Researcher Scholarship"
+        awarder: "LG Display"
+        date: "2022"
+      - title: "Brain Korea 21 (BK21) Plus Scholarship"
+        awarder: "National Research Foundation of Korea"
+        date: "2017"
+
+    Invited Talks:
+      - bullet: "**Invited Speaker**, DIBS Summer Lecture Series, Stanford University School of Medicine (Aug 2025)"
+      - bullet: "**Invited Speaker**, 2024 Spring CUK AI Seminar Series, The Catholic University of Korea (Apr 2024)"
+
+    Skills:
+      - name: Programming
+        keywords: "Python, PyTorch, TensorFlow, C/C++, MATLAB"
+
+      - name: ML Models
+        keywords: "CNNs, RNNs (LSTM, GRU), Transformers, GANs, Diffusion Models, AutoEncoders"
+
+      - name: Techniques
+        keywords: "Real-time decoding, Generative modeling, Few-shot Learning, Signal processing"
+
+    Academic Service:
+      - label: Journal & Conference Reviewer
+        details: "AAAI; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Industrial Informatics; IEEE Transactions on Instrumentation & Measurement; Journal of Engineering in Medicine; Computer Methods and Programs in Biomedicine; Scientific Data; Journal of Integrative Neuroscience; Brain Connectivity; Measurement Science Review; IEEE International Conference on Systems, Man, and Cybernetics (SMC); IEEE International Winter Conference on Brain-Computer Interface; International Conference on Multimodal Interaction"
