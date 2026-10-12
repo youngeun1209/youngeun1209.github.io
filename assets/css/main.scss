@@ -70,3 +70,347 @@ ul.timeline li::before {
 .profile .more-info p {
   display: block !important;
 }
+
+/* ---- Shared academic shell ---- */
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  z-index: 1050;
+  transform: translateY(-160%);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px;
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
+  padding: 0.45rem 0.7rem;
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+.skip-link:focus,
+.profile-sidebar a:focus-visible,
+.page-tabs__link:focus-visible {
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 3px;
+}
+
+.academic-shell {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 800px);
+  gap: 64px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 4.5rem 2rem 5rem;
+}
+
+.academic-main {
+  min-width: 0;
+}
+
+.academic-main:focus {
+  outline: none;
+}
+
+.academic-content {
+  min-width: 0;
+}
+
+.profile-sidebar {
+  border-right: 1px solid var(--global-divider-color);
+  padding-right: 2rem;
+}
+
+.profile-sidebar__inner {
+  position: sticky;
+  top: 2rem;
+  max-height: calc(100vh - 4rem);
+  overflow-y: auto;
+  scrollbar-width: thin;
+}
+
+.profile-sidebar__image {
+  width: 100%;
+  max-width: 220px;
+  max-height: 46vh;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: none;
+  object-fit: cover;
+}
+
+.profile-sidebar__image img {
+  border-radius: 6px;
+}
+
+.profile-sidebar__identity {
+  margin-top: 1.2rem;
+}
+
+.profile-sidebar__name {
+  display: inline-block;
+  color: var(--global-text-color);
+  font-size: 1.25rem;
+  line-height: 1.2;
+}
+
+.profile-sidebar__subtitle {
+  margin: 0.6rem 0 0;
+  color: var(--global-text-color-light);
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.profile-sidebar__details {
+  margin-top: 0.85rem;
+  color: var(--global-text-color-light);
+  font-size: 0.8rem;
+  line-height: 1.45;
+}
+
+.profile-sidebar__details p {
+  margin: 0 0 0.25rem;
+}
+
+.profile-sidebar__links {
+  margin-top: 1rem;
+}
+
+.profile-sidebar__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.8rem;
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+
+.profile-sidebar__links a {
+  color: var(--global-theme-color);
+}
+
+.page-tabs {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  margin-bottom: 2rem;
+}
+
+.page-tabs__pages {
+  display: flex;
+  flex: 1 1 0;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.15rem;
+  min-width: 0;
+}
+
+.page-tabs__link {
+  position: relative;
+  flex: 0 1 auto;
+  max-width: 100%;
+  color: var(--global-text-color-light);
+  padding: 0 0 0.6rem;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+
+.page-tabs__tools {
+  display: flex;
+  flex: 0 0 auto;
+  gap: 0.45rem;
+  padding-bottom: 0.45rem;
+}
+
+.page-tabs__tools button {
+  border: 0;
+  background: transparent;
+  color: var(--global-text-color-light);
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+}
+
+.page-tabs__tools button:hover,
+.page-tabs__tools button:focus {
+  color: var(--global-theme-color);
+}
+
+.page-tabs__link:hover,
+.page-tabs__link:focus {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}
+
+.page-tabs__link--active {
+  color: var(--global-text-color);
+  font-weight: 600;
+}
+
+.page-tabs__link--active::after {
+  position: absolute;
+  right: 0;
+  bottom: -1px;
+  left: 0;
+  height: 2px;
+  background: var(--global-theme-color);
+  content: "";
+}
+
+.post-header {
+  margin-bottom: 1.4rem;
+}
+
+.academic-toc-layout {
+  display: block;
+}
+
+.academic-toc-layout #toc-sidebar {
+  position: static;
+  max-height: none;
+  overflow: visible;
+  border-bottom: 1px solid var(--global-divider-color);
+  margin-bottom: 1.5rem;
+  padding: 0 0 0.8rem;
+}
+
+.academic-toc-layout #toc-sidebar .toc-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+  margin: 0;
+}
+
+.academic-toc-layout #toc-sidebar .toc-list .toc-list {
+  padding-left: 0;
+}
+
+.academic-toc-layout #toc-sidebar .toc-list-item {
+  display: inline-block;
+  margin: 0;
+}
+
+.academic-toc-content {
+  min-width: 0;
+}
+
+.projects > .row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.projects > .row > [class*="col"] {
+  flex: none;
+  width: auto;
+  max-width: none;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+@media (max-width: 900px) and (min-width: 768px) {
+  .academic-shell {
+    grid-template-columns: 200px minmax(0, 1fr);
+    gap: 32px;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+  }
+
+  .profile-sidebar {
+    padding-right: 1.5rem;
+  }
+
+  .profile-sidebar__image {
+    max-width: 180px;
+  }
+
+  .page-tabs {
+    gap: 0.35rem 0.9rem;
+    display: block;
+  }
+
+  .page-tabs__link {
+    font-size: 0.9rem;
+  }
+
+  .page-tabs__tools {
+    margin-top: 0.65rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .academic-shell {
+    display: block;
+    padding: 1.25rem 1rem 3rem;
+  }
+
+  .profile-sidebar {
+    border-right: 0;
+    border-bottom: 1px solid var(--global-divider-color);
+    padding: 0 0 1.25rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .profile-sidebar__inner {
+    position: static;
+    display: grid;
+    grid-template-columns: 96px minmax(0, 1fr);
+    gap: 1rem;
+    max-height: none;
+    overflow: visible;
+  }
+
+  .profile-sidebar__image {
+    max-width: 96px;
+    max-height: 120px;
+  }
+
+  .profile-sidebar__identity {
+    margin-top: 0;
+  }
+
+  .profile-sidebar__name {
+    font-size: 1.1rem;
+  }
+
+  .profile-sidebar__subtitle {
+    font-size: 0.82rem;
+  }
+
+  .profile-sidebar__details {
+    font-size: 0.76rem;
+  }
+
+  .profile-sidebar__links {
+    grid-column: 1 / -1;
+    margin-top: 0;
+  }
+
+  .page-tabs {
+    gap: 0.35rem 0.9rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .page-tabs__link {
+    font-size: 0.9rem;
+  }
+
+  .academic-toc-layout {
+    display: block;
+  }
+
+  .academic-toc-layout #toc-sidebar {
+    position: static;
+    max-height: none;
+    margin-bottom: 1.25rem;
+  }
+
+  .projects > .row {
+    grid-template-columns: 1fr;
+  }
+}

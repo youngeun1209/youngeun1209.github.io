@@ -1,0 +1,45 @@
+{% assign about_page = site.pages | where: "permalink", "/" | first %}
+{% assign profile = about_page.profile %}
+{% capture profile_alt %}{{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}{% endcapture %}
+
+<aside class="profile-sidebar" aria-label="Profile">
+  <a class="skip-link" href="#main-content">Skip to content</a>
+
+  <div class="profile-sidebar__inner">
+    {% if profile.image %}
+      {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+      {% include figure.liquid loading="eager" path=profile_image_path class="profile-sidebar__image" sizes="240px" alt=profile_alt cache_bust=true %}
+    {% endif %}
+
+    <div class="profile-sidebar__identity">
+      <a class="profile-sidebar__name" href="{{ '/' | relative_url }}">
+        <span class="font-weight-bold">{{ site.first_name }}</span>
+        {% if site.middle_name %} {{ site.middle_name }}{% endif %}
+        {{ site.last_name }}
+      </a>
+
+      {% if about_page.subtitle %}
+        <p class="profile-sidebar__subtitle">{{ about_page.subtitle | strip_html }}</p>
+      {% endif %}
+
+      {% if profile.more_info %}
+        <div class="profile-sidebar__details">{{ profile.more_info }}</div>
+      {% endif %}
+    </div>
+
+    <div class="profile-sidebar__links" aria-label="Main profile links">
+      {% if site.data.socials.email %}
+        <a href="mailto:{{ site.data.socials.email }}">Email</a>
+      {% endif %}
+      {% if site.data.socials.scholar_userid %}
+        <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}">Google Scholar</a>
+      {% endif %}
+      {% if site.data.socials.github_username %}
+        <a href="https://github.com/{{ site.data.socials.github_username }}">GitHub</a>
+      {% endif %}
+      {% if site.data.socials.linkedin_username %}
+        <a href="https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}">LinkedIn</a>
+      {% endif %}
+    </div>
+  </div>
+</aside>

@@ -9,4 +9,5 @@ cv_format: rendercv # options: rendercv, jsonresume
 description: Education, experience, skills, and academic service.
 toc:
   sidebar: left
+  collapse: expanded
 ---

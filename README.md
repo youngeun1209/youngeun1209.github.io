@@ -15,6 +15,10 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 | Social links (email, Scholar, GitHub, LinkedIn) | `_data/socials.yml` |
 | Site-wide settings (name, navbar, theme) | `_config.yml` |
 | Profile photo | `assets/img/prof_pic.jpg` |
+| Shared profile and page tabs | `_includes/profile-sidebar.liquid`, `_includes/page-tabs.liquid` |
+| Shared page layout / About layout | `_layouts/default.liquid`, `_layouts/about.liquid` |
+| Layout, responsive styling, accent | `assets/css/main.scss` |
+| Design decisions | `DESIGN.md` |
 
 ## Deploy
 

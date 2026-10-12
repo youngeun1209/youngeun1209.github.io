@@ -83,8 +83,8 @@ al_folio:
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
-footer_fixed: true
+navbar_fixed: false
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: false
@@ -213,6 +213,7 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
+  - DESIGN.md
   - docs/
   - FAQ.md
   - Gemfile
@@ -457,7 +458,7 @@ enable_darkmode: false # disabled to keep a clean white background
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
-enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar: false # disables the scroll progress bar so the shared layout controls page spacing
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
 # -----------------------------------------------------------------------------

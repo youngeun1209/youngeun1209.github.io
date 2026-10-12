@@ -1,0 +1,54 @@
+{% assign sorted_pages = site.pages | sort: "nav_order" %}
+{% assign current_url = page.url | remove: "index.html" %}
+
+<nav class="page-tabs" aria-label="Primary pages">
+  <div class="page-tabs__pages">
+    {% for item in sorted_pages %}
+      {% assign item_url = nil %}
+      {% assign item_title = nil %}
+      {% assign is_current = false %}
+
+      {% if item.permalink == "/" %}
+        {% assign item_url = "/" %}
+        {% assign item_title = item.title | default: "About" %}
+        {% if current_url == "/" %}
+          {% assign is_current = true %}
+        {% endif %}
+      {% elsif item.nav and item.autogen == null %}
+        {% assign item_url = item.url | remove: "index.html" %}
+        {% assign item_title = item.title %}
+        {% if current_url == item_url %}
+          {% assign is_current = true %}
+        {% elsif item_url == "/projects/" and page.collection == "projects" %}
+          {% assign is_current = true %}
+        {% endif %}
+      {% endif %}
+
+      {% if item_url and item_title %}
+        <a
+          class="page-tabs__link{% if is_current %} page-tabs__link--active{% endif %}"
+          href="{{ item_url | relative_url }}"
+          {% if is_current %}aria-current="page"{% endif %}
+        >
+          {{ item_title }}
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="page-tabs__tools" aria-label="Site tools">
+    {% if site.search_enabled %}
+      <button id="search-toggle" type="button" title="Search" aria-label="Open search">
+        <span>Search</span>
+        <i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>
+      </button>
+    {% endif %}
+    {% if site.enable_darkmode %}
+      <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme">
+        <i class="fa-half-sun-moon" id="light-toggle-system" aria-hidden="true"></i>
+        <i class="fa-solid fa-moon" id="light-toggle-dark" aria-hidden="true"></i>
+        <i class="fa-solid fa-sun" id="light-toggle-light" aria-hidden="true"></i>
+      </button>
+    {% endif %}
+  </div>
+</nav>
