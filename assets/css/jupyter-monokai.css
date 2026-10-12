@@ -119,14 +119,6 @@ ul#tabs a {
   border: none;
 }
 
-.navbar-nav > li > .dropdown-menu {
-  margin-top: 0px;
-}
-
-.navbar-nav {
-  margin: 0;
-}
-
 @-webkit-keyframes pulsate {
   0% {
     -webkit-transform: scale(1, 1);
